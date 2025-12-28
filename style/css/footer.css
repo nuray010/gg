@@ -1,0 +1,331 @@
+#footer{
+  display: flex;
+  align-items: center;
+  background-color: #101C26;
+  margin-top: 100px;
+  
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    .footer-social{
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    ion-icon{
+    color: white;
+    fill: white;
+    background: rgba(84, 83, 83, 0.979);
+    width: 25px;
+    height: 25px;
+    padding: 3px; 
+    border-radius: 15%; 
+    --ionicon-stroke-width: 64px;
+}
+    }
+    .footer-col{      
+      p{
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #F5F5F5;
+      margin: 40px 0 40px 0;
+      }
+      h3{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        color: #FFFFFF;
+        
+      }
+      h2{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin-bottom: 30px;
+      }
+      a{
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 28px;
+      color: #B3B3B3;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      }
+      
+
+
+
+
+  
+  .subscribe-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  input {
+    width: 200px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 0.5);
+    padding: 0 15px;
+    font-size: 14px;
+    
+  }
+  
+  .send-btn {
+    width: 50px;
+    height: 45px;
+    background: blue;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.3s;
+    
+  
+    
+    ion-icon {
+      color: white;
+      fill: white;
+      width: 22px;
+      height: 22px;
+      background: transparent;
+      padding: 0;
+    }
+  }
+
+    }
+    
+  }
+}                                                                                                                                                      акыркынын стили#footer{
+  display: flex;
+  align-items: center;
+  background-color: #101C26;
+  margin-top: 100px;
+  
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    .footer-social{
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    ion-icon{
+    color: white;
+    fill: white;
+    background: rgba(84, 83, 83, 0.979);
+    width: 25px;
+    height: 25px;
+    padding: 3px; 
+    border-radius: 15%; 
+    --ionicon-stroke-width: 64px;
+}
+    }
+    .footer-col{      
+      p{
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #F5F5F5;
+      margin: 40px 0 40px 0;
+      }
+      h3{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        color: #FFFFFF;
+        
+      }
+      h2{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin-bottom: 30px;
+      }
+      a{
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 28px;
+      color: #B3B3B3;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      }
+      
+
+
+
+
+  
+  .subscribe-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  input {
+    width: 200px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 0.5);
+    padding: 0 15px;
+    font-size: 14px;
+    
+  }
+  
+  .send-btn {
+    width: 50px;
+    height: 45px;
+    background: blue;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.3s;
+    
+  
+    
+    ion-icon {
+      color: white;
+      fill: white;
+      width: 22px;
+      height: 22px;
+      background: transparent;
+      padding: 0;
+    }
+  }
+
+    }
+    
+  }
+}                                                                                                                                                      акыркынын стили#footer{
+  display: flex;
+  align-items: center;
+  background-color: #101C26;
+  margin-top: 100px;
+  
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    .footer-social{
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    ion-icon{
+    color: white;
+    fill: white;
+    background: rgba(84, 83, 83, 0.979);
+    width: 25px;
+    height: 25px;
+    padding: 3px; 
+    border-radius: 15%; 
+    --ionicon-stroke-width: 64px;
+}
+    }
+    .footer-col{      
+      p{
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #F5F5F5;
+      margin: 40px 0 40px 0;
+      }
+      h3{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        color: #FFFFFF;
+        
+      }
+      h2{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin-bottom: 30px;
+      }
+      a{
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 28px;
+      color: #B3B3B3;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      }
+      
+
+
+
+
+  
+  .subscribe-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  input {
+    width: 200px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 0.5);
+    padding: 0 15px;
+    font-size: 14px;
+    
+  }
+  
+  .send-btn {
+    width: 50px;
+    height: 45px;
+    background: blue;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.3s;
+    
+  
+    
+    ion-icon {
+      color: white;
+      fill: white;
+      width: 22px;
+      height: 22px;
+      background: transparent;
+      padding: 0;
+    }
+  }
+
+    }
+    
+  }
+}                                                                                                                                                   
