@@ -1,0 +1,116 @@
+#hero {
+  margin-top: 50px;
+  .hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .hero-left {
+      h1 span {
+        color: transparent;
+        -webkit-text-stroke: 2px #5b44ee;
+        font-weight: 900;
+      }
+      h1 {
+        color: white;
+        font-size: 54px;
+        font-weight: 700;
+        font-family: sans-serif;
+      }
+      p {
+        color: rgba(255, 255, 255, 0.605);
+        margin-top: 25px;
+      }
+    }
+  }
+}
+.hero-btns {
+  display: flex;
+  gap: 20px;
+  button {
+    margin-top: 30px;
+    padding: 13px 25px;
+    border-radius: 29px;
+    background: none;
+    color: white;
+    border: solid 1px blue;
+    font-size: 14px;
+    font-weight: 700;
+    align-items: center;
+  }
+  button:hover {
+    background: rgb(41, 41, 247);
+    border: none;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    color: black;
+    transform: translateY(-2px);
+    box-shadow: 0 14px 36px rgba(246, 246, 243, 0.55);
+  }
+  button:active {
+    transform: translateY(0);
+    box-shadow: 0 8px 20px rgba(243, 242, 234, 0.35);
+  }
+  .hero-btn2 {
+    margin-top: 30px;
+    padding: 13px 25px;
+    border-radius: 29px;
+    background: none;
+    color: white;
+    border: solid 1px blue;
+    font-size: 14px;
+    font-weight: 700;
+    align-items: center;
+  }
+}
+
+.scene {
+  position: relative;
+  width: 900px;
+  height: 550px;
+}
+
+.wave {
+  position: absolute;
+  width: 520px;
+  left: 200px;
+  top: 80px;
+  pointer-events: none;
+  background-color: rgb(2, 21, 40);
+}
+
+.pig {
+  position: absolute;
+  right: 260px;
+  top: 110px;
+  height: 380px;
+  filter: drop-shadow(0 20px 35px rgba(0, 0, 0, 0.55));
+}
+
+.hero-btns {
+  display: flex;
+  gap: 20px;
+  button {
+    margin-top: 30px;
+    padding: 13px 25px;
+    border-radius: 29px;
+    background: none;
+    color: white;
+    border: solid 1px blue;
+    font-size: 14px;
+    font-weight: 700;
+    align-items: center;
+  }
+  button:hover {
+    background: #ffffff;
+    border: none;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    color: black;
+    transform: translateY(-2px);
+    box-shadow: 0 14px 36px rgba(246, 246, 243, 0.55);
+  }
+}
+
+.hero-right{
+  width: 600px;
+}
